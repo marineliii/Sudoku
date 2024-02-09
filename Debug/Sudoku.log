@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\win7\source\repos\Sudoku\Sudoku\Source.c(31,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sudoku.vcxproj -> C:\Users\win7\source\repos\Sudoku\Debug\Sudoku.exe
